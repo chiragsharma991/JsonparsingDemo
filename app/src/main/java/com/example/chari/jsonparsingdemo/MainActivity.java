@@ -71,7 +71,7 @@ class MainActivity extends AppCompatActivity {
                     list.add(data);
 
                 }
-
+//
 
             } catch (JSONException e) {
                 e.printStackTrace();
