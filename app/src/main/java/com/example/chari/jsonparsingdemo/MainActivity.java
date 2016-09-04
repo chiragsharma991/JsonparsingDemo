@@ -86,7 +86,8 @@ class MainActivity extends AppCompatActivity {
     }
 
 
-    private void find() {
+    private void find()
+    {
       //  button = (Button) findViewById(R.id.submit);
 
     }
